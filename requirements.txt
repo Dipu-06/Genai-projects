@@ -26,3 +26,6 @@ numpy
 scikit-learn
 #ui
 streamlit
+#Groq integration
+grandalf
+langchain-groq
