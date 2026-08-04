@@ -1,1 +1,1 @@
-This repository contains all Gen ai projects
+This repository contains all Gen Ai projects
