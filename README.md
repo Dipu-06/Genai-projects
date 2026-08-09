@@ -1,1 +1,1 @@
-This repository contains all Gen AI projects
+this repo contains genai practice topics
